@@ -50,7 +50,7 @@ body {
 big {
     font-family: 'Bungee Hairline', cursive;
     color:#c8cdb3;
-    text-shadow:0px 0px 3px #c8cdb3;
+    
 }
 
 small {
@@ -406,8 +406,9 @@ div.npf-link-block .poster:before {
 }
 
 #window big {
-    font-family: 'Cute Font', cursive;
-    font-size:18px;
+    color: #d46b7e;
+  font-family: 'Cute Font', cursive;
+    font-size:15px;
     
 }
 
