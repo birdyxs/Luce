@@ -290,7 +290,7 @@ div.npf-link-block .poster:before {
 
 .mtitle {
     position:absolute;
-    bottom:75px;
+    bottom:75px; left:44px;
     z-index:99999999;
     width:100%;
     line-height:20px;
